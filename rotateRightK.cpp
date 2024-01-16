@@ -6,7 +6,7 @@ int main(){
     int d = 2;
     int n = 7;
     
-    // [6,7,1,2,3,4,5]
+    // [6,7,1,2,3,4,5] desired output
     int temp[d];
     int j=0;
     for(int i=n-d;i<n;i++){
